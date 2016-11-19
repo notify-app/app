@@ -1,0 +1,19 @@
+{
+  "db": {
+    "url": "mongodb://localhost:27017/notify"
+  },
+  "session": {
+    "name": "notifyToken",
+    "maxAge": 2628000
+  },
+  "api": {
+    "port": 8080,
+    "instances": 4,
+    "file": "./node_modules/notify-api/index.js"
+  },
+  "auth": {
+    "port": 8181,
+    "instances": 4,
+    "file": "./node_modules/notify-auth/index.js"
+  }
+}

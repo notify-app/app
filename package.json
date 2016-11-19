@@ -1,0 +1,16 @@
+{
+  "name": "notify-app",
+  "version": "0.1.0",
+  "description": "Main application of Notify",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Luca Tabone <taboneluca3@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "ipc-emitter": "0.1.5",
+    "notify-api": "0.1.0",
+    "notify-auth": "0.1.0"
+  }
+}
