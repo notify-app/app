@@ -9,8 +9,9 @@
   "author": "Luca Tabone <taboneluca3@gmail.com>",
   "license": "ISC",
   "dependencies": {
-    "ipc-emitter": "0.1.5",
+    "ipc-emitter": "0.1.6",
     "notify-api": "0.1.0",
-    "notify-auth": "0.1.0"
+    "notify-auth": "0.1.0",
+    "winston": "2.3.0"
   }
 }
