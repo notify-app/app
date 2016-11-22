@@ -12,6 +12,7 @@
     "ipc-emitter": "0.2.0",
     "notify-api": "0.1.0",
     "notify-auth": "0.1.0",
+    "notify-ws": "0.1.0",
     "winston": "2.3.0"
   }
 }

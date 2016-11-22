@@ -15,5 +15,10 @@
     "port": 8181,
     "instances": 4,
     "file": "./node_modules/notify-auth/index.js"
+  },
+  "ws": {
+    "port": 8282,
+    "instances": 4,
+    "file": "./node_modules/notify-ws/index.js"
   }
 }
