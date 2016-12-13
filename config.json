@@ -4,6 +4,7 @@
   },
   "session": {
     "cookie": "notifyToken",
+    "header": "X-NOTIFY-TOKEN",
     "maxAge": 2628000
   },
   "api": {
